@@ -1,0 +1,24 @@
+{
+    "books": [
+        {
+            "name": "Album 1",
+            "image": "Images/Album 1.png",
+            "price": 12.99
+        },
+        {
+            "name": "Album 2",
+            "image": "Images/Album 2.png",
+            "price": 14.99
+        },
+        {
+            "name": "Album 3",
+            "image": "Images/Album 3.png",
+            "price": 9.99
+        },
+        {
+            "name": "Album 4",
+            "image": "Images/Album 4.png",
+            "price": 19.99
+        }
+    ]
+}
